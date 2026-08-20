@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720131829114",
+    "project_id": "cueapp-c0c35",
+    "storage_bucket": "cueapp-c0c35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720131829114:android:b89301bd25994fde193ac3",
+        "android_client_info": {
+          "package_name": "com.cueapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdXKnbQZVObqjKxLCyrsIpxgJjfvnMU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
